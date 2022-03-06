@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Bu proje Flutter kullanılarak mvvm yapısı baz alınarak hazırlanmıştır.Backend için ise Firebase kullanılmıştır.
+###Bu proje Flutter kullanılarak ve mvvm yapısı baz alınarak hazırlanmıştır.Backend için ise Firebase kullanılmıştır.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
