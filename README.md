@@ -1,4 +1,4 @@
-# photo_note_app
+# Photo Note
 
 A new Flutter project.
 
